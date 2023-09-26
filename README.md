@@ -1,0 +1,1 @@
+scraper.py toma los títulos de una sección del boletín oficial
